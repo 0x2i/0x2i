@@ -1,1 +1,16 @@
-![Alt Text](https://media2.giphy.com/media/3ohc0XUYwHgP0Waz5K/giphy.gif?cid=ecf05e475nf4m4e3gf3qtgiosmsjyn1tdlpskiop9qlzcc8a&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+analyst / dev — systematic fund
+ 
+```
+role        options pricing & execution
+stack       python · c++ · rust (infra)
+markets     equity derivs, vol
+```
+ 
+---
+ 
+**areas**
+ 
+- vol surface construction & calibration (SVI, SABR, local vol)
+- execution algos - impact models, optimal liquidation
+- market microstructure - order flow, imbalance, queue position
+- pricing infra - low-latency libs, backtesting engines
